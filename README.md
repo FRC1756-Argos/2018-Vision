@@ -22,3 +22,22 @@ Copy the contents of ArgosTargetDetection.py to Jevois Sandbox module (pythonSan
 - parameters can be found in script.cfg file of the module.
 - As of 02/10/2018 all parametrs in the code are made configurable and can be modified via serial commands on the fly.
 
+# Running the module
+- video mapping  - 320x254
+- algorithm modes can be changed by sending the following serial command: setpar detect_mode 1
+- detect_modes:
+  1 - visionTargets,
+  2 - platforms,
+  3 - powerCubes
+- following is the structure of the serial message sent out by the module:
+
+|            ||            ||            ||            ||            ||            ||            ||            ||            ||            ||            ||            |
+|     x      ||     y      ||     d      ||     x      ||     w      ||     h      ||     0      ||     0      ||     0      ||     0      ||     0      ||    LABEL   |
+|            ||            ||            ||            ||            ||            ||            ||            ||            ||            ||            ||            |
+
+x - horizontal offset from the center of the frame to center of the target
+y - vertical offset from the center of the frame to center of the target
+d - approximate distance in inches from camera to the target
+w - width of the detected target in pixels
+h - height of the detected target in pixels
+LABEL - Target description
