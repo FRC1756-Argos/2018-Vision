@@ -1,0 +1,9 @@
+/home/teja/repos/argosvision/pbuild/CMakeFiles/install/strip.dir
+/home/teja/repos/argosvision/pbuild/CMakeFiles/install/local.dir
+/home/teja/repos/argosvision/pbuild/CMakeFiles/install.dir
+/home/teja/repos/argosvision/pbuild/CMakeFiles/ArgosVision.dir
+/home/teja/repos/argosvision/pbuild/CMakeFiles/list_install_components.dir
+/home/teja/repos/argosvision/pbuild/CMakeFiles/jvpkg.dir
+/home/teja/repos/argosvision/pbuild/CMakeFiles/modinfo_ArgosVision.dir
+/home/teja/repos/argosvision/pbuild/CMakeFiles/edit_cache.dir
+/home/teja/repos/argosvision/pbuild/CMakeFiles/rebuild_cache.dir

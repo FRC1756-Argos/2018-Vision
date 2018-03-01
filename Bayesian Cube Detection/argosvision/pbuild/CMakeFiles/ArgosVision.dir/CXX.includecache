@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/teja/repos/argosvision/src/Modules/ArgosVision/ArgosVision.C
+ArgosVision.H
+/home/teja/repos/argosvision/src/Modules/ArgosVision/ArgosVision.H
+
+/home/teja/repos/argosvision/src/Modules/ArgosVision/ArgosVision.H
+jevois/Core/Module.H
+-
+jevois/Image/RawImageOps.H
+-
+jevois/Debug/Log.H
+-
+jevois/Util/Utils.H
+-
+jevois/Debug/Timer.H
+-
+jevois/Util/Coordinates.H
+-
+opencv2/core/core.hpp
+-
+opencv2/opencv.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+opencv2/calib3d/calib3d.hpp
+-
+
