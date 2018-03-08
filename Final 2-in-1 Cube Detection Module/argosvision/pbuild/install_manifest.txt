@@ -1,0 +1,7 @@
+/media/teja/JEVOIS/modules/Argos/ArgosVision/icon.png
+/media/teja/JEVOIS/modules/Argos/ArgosVision/training_data.yml
+/media/teja/JEVOIS/modules/Argos/ArgosVision/script.cfg
+/media/teja/JEVOIS/modules/Argos/ArgosVision/screenshot1.png
+/media/teja/JEVOIS/modules/Argos/ArgosVision/postinstall
+/media/teja/JEVOIS/modules/Argos/ArgosVision/ArgosVision.so
+/media/teja/JEVOIS/share/README.txt
